@@ -36,8 +36,7 @@ ISP = ''
 # dns server
 DNS_SERVERS = ['8.8.4.4', '1.1.1.1']
 BLOCKED_DOMAINS = [
-    'speedtest.net', 'fast.com', 'speedtest.cn', 'speed.cloudflare.com', 'speedof.me',
-    'testmy.net', 'bandwidth.place', 'speed.io', 'librespeed.org', 'speedcheck.org'
+     
 ]
 
 # 日志级别
